@@ -9,7 +9,7 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1w8u47KYFLuwMam-RXpx7_YcTbq0YYIE-/view?usp=sharing?width=676&height=676">
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEBNSujGDFr_Q/profile-displayphoto-shrink_800_800/0/1556141544766?e=1649289600&v=beta&t=6W4o8R-Bq8CAf1lDqyotGYdgLobib7HAOEaJURF8PWY?width=676&height=676">
 </div>
   
   ##
